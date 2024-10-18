@@ -1,0 +1,6 @@
+1|Vatica umbonata|Vatica|images/Vatica.jpg|images/vatica-umbonota.jpg|images/vatica-umbonota-herbarium.jpg|Dipterocarpaceae|Vatica|V. umbonata|uploads/rosa_description.pdf
+2|Dipterocarpus alatus|Dipterocarpus|images/Dipterocarpaceae.jpg|images/dipterocarpacea-leaves.jpg|images/dipterocarpaceae-herbarium.jpg|Dipterocarpaceae|Dipterocarpus|D. alatus|uploads/oak_description.pdf
+3|Dacryodes costata|Dacryodes|images/dacryodes-costata.jpeg|images/dacryodes-costata-leaves.jpeg|images/dacryodes-costata-herbarium.jpg|Burseraceae|Dacryodes|D. costata|uploads/maple_description.pdf
+4|Dipterocarpus alatus|Dipterocarpus|images/dipterocarpus-alatus.jpg|images/dipterocarpus-alatus-leaves.jpg|images/dipterocarpus-alatus-herbarium.jpg|Dipterocarpaceae|Dipterocarpus|D. alatus|uploads/magnolia_description.pdf
+5|Canarium|Canarium|images/Canarium.jpg|images/canarium-leaves.jpeg|images/canarium-herbarium.jpeg|Burseraceae|Canarium|C. sp.|uploads/lavender_description.pdf
+6|Actinodaphne glomerata|Actinodaphne|images/actinodaphne.JPG|images/actinodaphne glomerata.jpg|images/Actinodaphne-herbarium.jpg|Lauraceae|Actinodaphne|A. glomerata|uploads/lavender_description.pdf

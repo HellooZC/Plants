@@ -1,0 +1,5 @@
+Name: Ho Zong Chun
+Student ID: 102770431
+Email: 102770431@students.swinburne.edu.my
+Gender: Male
+Profile Image: images/boys.jpg
